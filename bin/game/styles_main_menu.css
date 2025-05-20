@@ -1,0 +1,23 @@
+.button {
+	-fx-padding: 4pt;
+	-fx-font-size: 18pt;
+	-fx-corner-radius: 4pt;
+	-fx-background-color: brown;
+}
+
+.button:active {
+	-fx-padding: 8pt;
+	-fx-font-size: 18pt;
+	-fx-corner-radius: 4pt;
+	-fx-background-color: brown;
+}
+
+.stat-display {
+	-fx-font-size: 24pt;
+    -fx-padding: 5pt;
+    -fx-border-insets: 5pt;
+    -fx-background-insets: 5pt;
+    
+    -fx-background-color: white;
+    -fx-background-radius: 4pt;
+}
